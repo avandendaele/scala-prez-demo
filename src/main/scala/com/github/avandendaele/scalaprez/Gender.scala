@@ -1,6 +1,5 @@
-package dom
+package com.github.avandendaele.scalaprez
 
 sealed trait Gender
 case object Male extends Gender
 case object Female extends Gender
-case object Other extends Gender
